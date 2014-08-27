@@ -1,0 +1,66 @@
+body {
+    font-family: Helvetica,Arial,sans-serif;
+	color: #dddddd;
+	background: black;
+}
+table, th, td{
+ border: 2px solid white;
+ //border-collapse: collapse;
+}
+
+.schedule-table-block-1 {
+    background-color: #76276C;
+}
+
+.schedule-table-block-2 {
+    background-color: #9B344E;
+}
+
+.schedule-afternoon-rotation-0 {
+    background-color: #599532;
+}
+
+.schedule-afternoon-rotation-1 {
+    background-color: #8DA336;
+}
+
+.schedule-afternoon-rotation-2 {
+    background-color: #667A14;
+}
+
+.schedule-table-block-8 {
+    background-color: #40002D;
+}
+
+.schedule-table-block-9 {
+    background-color: #77bbcc;
+}
+
+.schedule-table-block-10 {
+    background-color: #5599aa;
+}
+
+.schedule-table-recess {
+    background-color: #888888;
+}
+
+.schedule-table-advisory {
+    background-color: #468B78 ;
+}
+
+.schedule-table-lunch {
+    background-color: #888888;
+}
+
+.schedule-table-date {
+    background-color: black;
+    color: white;
+}
+
+.schedule-table-block-current {
+    font-weight: bold;
+}
+
+.schedule-table-today {
+    font-weight: bold;
+}
